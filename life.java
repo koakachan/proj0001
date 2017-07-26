@@ -1,3 +1,5 @@
+#This is a test file for Jenkins and GIT
+
 import java.util.Scanner;
 
 public class Life {
@@ -75,7 +77,5 @@ public class Life {
         return r >= 0 && r < world.length && c >= 0 &&
         c < world[0].length;
     }
-    
-    
     
 }
